@@ -10,3 +10,19 @@ The @penWIN expert was the most kiddy in the first version. Its brain only had t
 
 
 *I wanted to add the expert since I was making the new universal language. I first prototyped it in the unreleased version 2.0, but it was kiddy, so I improved it in the v3 universal...
+
+
+And anyways, this is the HelloWorld code that doesn't just print 'Hello World!', but activates all the experts as a test...
+
+
+run @IDE(print "Hello World! Universal Singularity 3.1 Initialized")
+run @exp(System: Global Sync 100%)
+call @math(pi * 10**2)
+run @physics(speed distance:300000km / time:1s)
+call @penWIN(rect 50 50 400 300 cyan)
+run @pen(filter grayscale satellite_view.obj)
+call @Inet(ping universal_gateway.exp)
+run @imp(library: quantum_physics.lib)
+call @access(verify_identity: admin_01)
+run @use(arch: carbon_nanotube_processor)
+call @computer(system_scan --deep)
